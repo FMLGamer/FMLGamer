@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on the B&R BS MK.1 bookshelf speaker system with the B&R DSP Amplifier<br>👯 I’m always looking to collaborate on fun projects<br>🌱 I’m currently learning .NET with C#
+🔭 I’m currently working on my Homelab<br>👯 I’m always looking to collaborate on fun projects<br>🌱 I’m currently learning for Kubestronaut
 
 
 # 💻 Tech Stack:
